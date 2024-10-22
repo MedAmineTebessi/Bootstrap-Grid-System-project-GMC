@@ -1,0 +1,103 @@
+body{
+    background-image: url(Foodbg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+img{
+    margin: 0;
+    padding: 0;
+    width: 100px ;
+    height: 70px;
+}
+
+nav{
+    border-radius: 30%;
+    background-image: url(Foodbg.jpg);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+.navbar{
+    background-color: whitesmoke;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+
+}
+.navbar-brand{
+    margin-left: 130px;
+}
+.titlenav{
+    font-family:  'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: whitesmoke;
+    font-style: italic;
+    font-weight: bold; 
+    text-align: center;
+}
+.navbar .nav-link{
+    color: whitesmoke;
+    background-color: #333;
+    font-weight: bold;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5%;
+}
+.navbar .nav-link:hover{
+    color: black;
+    font-weight: bold;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    background-color: whitesmoke;
+}
+.contact{
+    margin-right: 30px;
+}
+.menufood {
+    
+    margin-top: 90px;
+    width: 100vw;
+    height: 100vh;
+}
+
+.card-body {
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
+
+
+
+
+.menu-container {
+    max-width: 800px;
+    width: 100%;
+}
+
+.row img {
+    width: 240px;
+    height: 200px ;
+}
+
+.logopage {
+    position: absolute;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.card-text, .card-title{
+    font-weight: bold;
+}
+footer{
+    margin-top: 100px;
+    color: whitesmoke;
+    background-image: url(Foodbg.jpg);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 3%;
+}
+
+
+
+

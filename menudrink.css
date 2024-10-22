@@ -1,0 +1,77 @@
+body{
+    background-image: url(Foodbg.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+img{
+    margin: 0;
+    padding: 0;
+    width: 100px ;
+    height: 70px;
+}
+
+nav{
+    background-color: whitesmoke;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+.navbar{
+    background-color: whitesmoke;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+
+}
+.nav-link{
+    color: black;
+    font-weight: bold;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+.nav-link:hover{
+    color: black;
+    font-weight: bold;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    background-color: whitesmoke;
+}
+.contact{
+    margin-right: 30px;
+}
+.menufood {
+    margin-top: 90px;
+    width: 100vw;
+    height: 100vh;
+}
+
+.card-body {
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
+
+
+
+
+.menu-container {
+    max-width: 800px;
+    width: 100%;
+}
+
+.row img {
+    width: 240px;
+    height: 200px ;
+}
+
+.logopage {
+    position: absolute;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.card-text, .card-title{
+    font-weight: bold;
+}
+
+
+
+
